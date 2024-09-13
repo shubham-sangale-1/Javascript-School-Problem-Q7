@@ -1,0 +1,1 @@
+# Javascript-School-Problem-Q7
